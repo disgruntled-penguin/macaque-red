@@ -1,6 +1,10 @@
-in demo.ipynb,
+on google colab,
 
- !git clone https://github.com/CompVis/latent-diffusion.git
+
+<div align=center>
+<img src="assets/GIF_b_small.gif" width=250/><img src="assets/GIF_c_small.gif" width=250/>
+</div>
+
 
 
 
