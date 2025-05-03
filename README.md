@@ -1,4 +1,6 @@
-for testing, demo.ipynb
+in demo.ipynb,
+
+ !git clone https://github.com/CompVis/latent-diffusion.git
 
 
 
