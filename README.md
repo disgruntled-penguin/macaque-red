@@ -16,4 +16,4 @@
 
 
 
-This code borrows heavily from [latent-diffusion-inpainting](https://github.com/nickyisadog/latent-diffusion-inpainting), thanks the contribution of [nickyisadog](https://github.com/nickyisadog)
+This code is sourced from [latent-diffusion](https://github.com/CompVis/latent-diffusion.git), [lake-red](https://github.com/PanchengZhao/LAKE-RED.git)
